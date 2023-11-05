@@ -77,9 +77,9 @@ in six different groups and outlier group (Q3+1.5IQR) is different. So, these si
 ![my picturename](Pic/Picture5.png)
 my_picturename   
 #CHI Square test is another test to test if there is a relationship or no relationship between the data. Here the P is greater than 0.05 so there is no relationship, so there is no hypothesis. We tested Group A and B, and in the result: there is fail to reject the null hypothesis; there is no significant difference between the Total_Trans_Amt of Group A and Group B.   
-![my picturename](Pic/chi.png)
+![my picturename](Pic/Chi.png)
 my_picturename   
-![my picturename](Pic/Capture.png)
+![my picturename](Pic/Capture.PNG)
 my_picturename   
 # Works Cited
 
